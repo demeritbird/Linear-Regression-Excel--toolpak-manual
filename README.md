@@ -1,4 +1,4 @@
-# Linear-Regression-Excel-toolpak-manual-
+# Linear-Regression-Excel (toolpak/manual)
 
 Uses the 23/11/2021 .csv dataset from OWID: COVID 19 Data:
 [https://github.com/owid/covid-19-data]
