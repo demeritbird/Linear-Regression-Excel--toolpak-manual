@@ -3,6 +3,11 @@
 Uses the 23/11/2021 .csv dataset from OWID: COVID 19 Data:
 [https://github.com/owid/covid-19-data]
 
+### Following Add-Ins need to be Enabled 
+- VBA Macros
+- VBA for Analysis Toolpak
+
+
 ## Current Features
 - Select different coefficients using Training and Test sets
 - Predict future deaths using Analysis Toolpak 
@@ -29,8 +34,7 @@ _then_
 &nbsp;&nbsp;&nbsp;&nbsp;– Input X Range: ‘Formulas (SplitData)’!$K$2 :$N$4657<br />
 &nbsp;&nbsp;&nbsp;&nbsp;– Check “Labels”<br />
 &nbsp;&nbsp;&nbsp;&nbsp;– Output Range; ‘Formulas (SplitData)’!$T$3<br />
-    
-    
+  
 
 ## To-Do
 - Set up Manual Linear Regression Calculator.
